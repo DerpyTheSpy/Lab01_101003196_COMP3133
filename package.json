@@ -1,0 +1,23 @@
+{
+  "name": "lab01_101003196_comp3133",
+  "version": "1.0.0",
+  "description": "lab 1 fullstack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerpyTheSpy/Lab01_101003196_COMP3133.git"
+  },
+  "author": "Minkyu Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerpyTheSpy/Lab01_101003196_COMP3133/issues"
+  },
+  "homepage": "https://github.com/DerpyTheSpy/Lab01_101003196_COMP3133#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
